@@ -1,4 +1,4 @@
-Hello! I am a noob for the time being when it comes to all things coding.
+Hello! I am a newbie for the time being when it comes to all things coding.
 
 Please forgive me, and feel free to give me pointers to improve. Cheers!
 <!---
